@@ -1,0 +1,27 @@
+# Dependencies
+node_modules/
+
+# Environment variables
+.env
+.env.*
+!.env.example
+
+# Frontend build
+dist/
+build/
+
+# Java / Maven
+backend/target/
+
+# Uploaded/generated files
+backend/uploads/
+
+# IDE files
+.vscode/
+.classpath
+.project
+.settings/
+
+# OS files
+.DS_Store
+Thumbs.db
