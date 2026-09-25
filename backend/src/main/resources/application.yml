@@ -21,7 +21,7 @@ app:
     refresh-expiration-ms: 604800000 # 7 days
   upload:
     dir: uploads
-  domain: http://localhost:8081
+  domain: https://smart-link-hub-backend-e3rn.onrender.com
 
 management:
   endpoints:
